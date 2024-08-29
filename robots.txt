@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://urbhen.github.io/sitemap.html.gz
+Sitemap: https://urbhen.github.io/app/sitemap.html.gz
+Sitemap: https://urbhen.github.io/assets/sitemap.html.gz
+Sitemap: https://urbhen.github.io/css/sitemap.html.gz
+Sitemap: https://urbhen.github.io/includes/sitemap.html.gz
+Sitemap: https://urbhen.github.io/item/sitemap.html.gz
+Sitemap: https://urbhen.github.io/src/sitemap.html.gz
